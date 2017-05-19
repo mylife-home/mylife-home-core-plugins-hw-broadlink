@@ -7,7 +7,8 @@
   "author": "Vincent Trumpff",
   "dependencies": {
     "async": "*",
-    "log4js": "*"
+    "log4js": "*",
+    "node-arp": "^1.0.5"
   },
   "devDependencies": {
     "chai": "*",
