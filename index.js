@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  Rgb    : require('./lib/rgb')
+  MP1 : require('./lib/mp1')
 };
