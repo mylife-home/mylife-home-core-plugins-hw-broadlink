@@ -1,5 +1,5 @@
 'use strict';
 
 module.exports = {
-  MP1 : require('./lib/mp1')
+  mp1 : require('./lib/mp1')
 };
