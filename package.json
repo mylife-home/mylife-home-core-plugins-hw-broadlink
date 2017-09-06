@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Mylife Home Core Plugin: HW Broadlink",
   "main": "index.js",
-  "repository": "https://github.com/vincent-tr/mylife-home-core-plugins-hw-broadlink",
+  "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-broadlink",
   "author": "Vincent Trumpff",
   "dependencies": {
     "async": "*",
