@@ -6,8 +6,6 @@
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-broadlink",
   "author": "Vincent Trumpff",
   "dependencies": {
-    "async": "*",
-    "log4js": "*",
     "node-arp": "^1.0.5"
   },
   "devDependencies": {
