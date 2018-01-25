@@ -1,6 +1,6 @@
 {
   "name": "mylife-home-core-plugins-hw-broadlink",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Mylife Home Core Plugin: HW Broadlink",
   "main": "index.js",
   "repository": "https://github.com/mylife-home/mylife-home-core-plugins-hw-broadlink",
